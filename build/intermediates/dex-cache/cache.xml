@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-a740ab8c89e295540f88fdac3323c1aee94a2866.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-a2fffbf008278b7f8dde87f1aec5ef2c52656514.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-12dd683f18ad7d4f5455e78566e70fad968634cf.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-5713b5653bc5bb418b9bcc57daae24a021fe738b.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-52c8b0510565be59fcc5419b8ad2a87d932202b5.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-8316833ca2362fa6dcdf37939092af4db9206696.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-7f28321ec7fa35044e763d3329aa84a1f74eebbe.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\classes-1fe11a164319b363ead6ea405a69d3130105d39b.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-585058564cded2a9707cdbe00b42888fa81358a5.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-c3b73a45453c20fd0abab86d39579d9a09a9b0bc.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-57a540e2b9bd5ad7ef5b946297e023825cbc807e.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-09f18f66ccbbc04af9e98575f0712fc76cce96be.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-39446cddb121ceb64bb0e7a4b4309fffca8d1708.jar" />
+    </item>
+    <item
+        jar="C:\Users\nicol\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-f251846283f9db88861dd5b21afd9eabac89ee56.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-32f80f3ccec19be7c2f6391966fa839d452aece5.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\classes-26482494fba3ea603112649207a4975c31e4614f.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-6bdf9942d169a1bd9aa28a7b20a0aef00645be58.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-9bdc333bd40f3992d47d5db1ee33adf99a966433.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-07d78e934efb695b1d0d8c780ad0a07657ad7d00.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-004d498f8c681945fd67f05120b1a5d5407f05bf.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-ed88cd69e7f102b8b2eb9a3bd49f55e6cca8794d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nicol\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7a01e2249986aa235c2300d029c416ede1b745c4.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-52a0511236e08e6fc26fc290af4105369b3921ec.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-080819bd67ebdc5714128f7f7471e7523e273a61.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-f590506511e46f0d7d17622d84d9bacf8bf5712e.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\classes-3e640f5b0ed9a2e14b880395b1449aeda04e0dfa.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-2301af93fcee66d3ac14680b7f42e99abc712d1a.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-4b8a223939b0957be0f6bc73776f5b89bb7bbf06.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\classes-9f048292ef1fa5baed9b2fb94af6d6c02aa551c9.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-4f33acd13c7c215f1c22f398160a6ecfcc17ff9b.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-e07fdedf96cfeaff377d6f03a0295028684616e5.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-66e6e27e51a048a4dc73ca0a1042a5a239975348.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-f70cffca566740d3fdc9f32894b872cc6fce4547.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-47745101566b6914f5695f5c5a195b99dff4ca9d.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="D:\Programming\Android\DailyMeds\wear\build\intermediates\pre-dexed\debug\classes-4eb2456bbdcb14e74805d31ac68d8e6b50f77025.jar" />
+    </item>
+    <item
+        jar="D:\Programming\Android\DailyMeds\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\Programming\Android\DailyMeds\mobile\build\intermediates\pre-dexed\debug\classes-944aec4c61e1d8b3c5a7a7fd3782a2beffe9e1ee.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DailyMeds</string>
+    <string name="add">+</string>
+    <string name="action_about">Information</string>
+    <string name="action_save">Speichern</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="action_next">Weiter</string>
+    <string name="action_delete">Löschen</string>
+    <string name="title_activity_edit">Medikament bearbeiten</string>
+    <string name="title_activity_add">Medikament hinzufügen</string>
+    <string name="title_dialog_daytime">Einahme-Tag(e) und -Zeit wählen</string>
+    <string name="title_dialog_icon">Bild und Farbe wählen</string>
+    <string name="title_dialog_delete">Wirklich löschen?</string>
+    <string name="title_dialog_widget">Medikament für Widget auswählen</string>
+    <string name="notification_wait_title">Wartezeit vorbei</string>
+    <string name="notification_wait_text">Die Wartezeit nach der Einnahme ist vorbei.</string>
+    <string name="notification_take_title">Medikamente genommen?</string>
+    <string name="notification_take_text">Zeit zum Einnehmen</string>
+    <string name="med_name">Name</string>
+    <string name="med_desc">Beschreibung</string>
+    <string name="med_desc_text">Hier könnte eine Beschreibung des Medikaments stehen...</string>
+    <string name="med_take">Zu einer bestimmten Zeit nehmen?</string>
+    <string name="med_take_text_new">Zeit wählen...</string>
+    <string name="med_take_text_change">Ändern von </string>
+    <string name="med_wait">Nach dem Einnehmen warten?</string>
+    <string name="toast_med_taken">Timer gestartet</string>
+    <string name="toast_no_wait">Nach Einnahme muss nicht gewartet werden!</string>
+    <string name="med_saved">Änderungen gespeichert</string>
+    <string name="button_edit">Bearbeiten</string>
+    <string name="button_taken">Genommen</string>
+    <string name="moD">Mo</string>
+    <string name="tuD">Di</string>
+    <string name="weD">Mi</string>
+    <string name="thD">Do</string>
+    <string name="frD">Fr</string>
+    <string name="saD">Sa</string>
+    <string name="suD">So</string>
+    <string name="daily">Täglich</string>
+    <string name="about_text" ><![CDATA[<p>(c)2016 Nicola M.H. Riedmann</p><p><a href=\"http://nriedmann.port0.org/apps.html\"> Meine anderen Apps!</a><p>]]></string>
+    <string name="reminders_off">Erinnerung aus</string>
+    <string name="reminders_on">Erinnerung an</string>
+    <string name="timers_set">Erinnerungen aktualisiert</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/widgetLayout"
+    android:background="@color/lime"
+    android:elevation="2dp"
+    android:padding="4dp">
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:adjustViewBounds="true"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        android:id="@+id/wMedIcon"
+        android:src="@drawable/med_icon_1" />
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_toRightOf="@id/wMedIcon"
+    android:layout_marginLeft="6dp"
+    android:layout_marginTop="6dp"
+    android:textSize="14dp"
+    android:id="@+id/wMedName"
+    android:text="@string/med_name" />
+    <ImageView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:id="@+id/wClockIcon"
+        android:src="@drawable/ic_access_time_black_24dp"
+        android:layout_toRightOf="@id/wMedIcon"
+        android:layout_below="@id/wMedName"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="3dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:textSize="11dp"
+        android:layout_marginTop="3dp"
+        android:id="@+id/wMedTime"
+        android:layout_toRightOf="@id/wClockIcon"
+        android:layout_below="@id/wMedName"
+        android:text="08:00" />
+</RelativeLayout>

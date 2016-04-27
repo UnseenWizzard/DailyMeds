@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="red" type="color">#F44336</item>
+    <item name="orange" type="color">#FFC107</item>
+    <item name="lime" type="color">#CDDC39</item>
+    <item name="teal" type="color">#009688</item>
+    <item name="lightblue" type="color">#2196F3</item>
+    <item name="blue" type="color">#3F51B5</item>
+    <item name="grey" type="color">#CFD8DC</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/lime</item>
+        <item>@color/teal</item>
+        <item>@color/lightblue</item>
+        <item>@color/blue</item>
+        <item>@color/grey</item>
+
+    </integer-array>
+
+</resources> 

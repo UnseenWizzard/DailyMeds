@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DailyMeds</string>
+    <string name="pref_file_id" translatable="false">org.port0.nriedmann.dailymeds.DATA_PREFS</string>
+    <string name="pref_file_data" translatable="false">org.port0.nriedmann.dailymeds.DATA_ARRAY</string>
+    <string name="pref_file_alarms_set" translatable="false">org.port0.nriedmann.dailymeds.BOOLEAN.ALARMSET</string>
+    <string name="add">+</string>
+    <string name="action_about">About</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_next">Next</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_activity_edit">Edit Med</string>
+    <string name="title_activity_add">Add Med</string>
+    <string name="title_dialog_daytime">Choose days and time to take</string>
+    <string name="title_dialog_icon">Choose icon and color</string>
+    <string name="title_dialog_delete">Do you really want to delete this?</string>
+    <string name="title_dialog_widget">Choose a med to create widget for</string>
+    <string name="notification_wait_title">Waiting period over</string>
+    <string name="notification_wait_text">The waiting period has passed.</string>
+    <string name="notification_take_title">Taken your meds yet?</string>
+    <string name="notification_take_text">Time to take </string>
+    <string name="med_name">Name</string>
+    <string name="med_desc">Description</string>
+    <string name="med_desc_text">You could put a description of this med here...</string>
+    <string name="med_take">Take this at a certain time?</string>
+    <string name="med_take_text_new">Set time...</string>
+    <string name="med_take_text_change">Change from </string>
+    <string name="med_wait">Have to wait after taking this?</string>
+    <string name="med_saved">Saved changes</string>
+    <string name="toast_med_taken">Timer started</string>
+    <string name="toast_no_wait">You don\'t have to wait after taking this!</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_taken">Taken</string>
+    <string name="moD">Mo</string>
+    <string name="tuD">Tu</string>
+    <string name="weD">We</string>
+    <string name="thD">Th</string>
+    <string name="frD">Fr</string>
+    <string name="saD">Sa</string>
+    <string name="suD">Su</string>
+    <string name="daily">Daily</string>
+    <string name="about_text"><![CDATA[<p>(c)2016 Nicola M.H. Riedmann</p><p><a href=\"http://nriedmann.port0.org/apps.html\"> Check out my other apps!</a><p>]]></string>
+    <string name="reminders_off">Reminders off</string>
+    <string name="reminders_on">Reminders on</string>
+    <string name="timers_set">Timers set</string>
+</resources>
